@@ -1,4 +1,4 @@
-package currency_converter;
+package calculator;
 import java.util.Stack;
 import java.awt.Color;
 import java.awt.Font;
